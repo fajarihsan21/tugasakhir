@@ -3,8 +3,6 @@ Tugas Akhir
 ###################
 
 Link: https://mrp-tugasakhir.000webhostapp.com/
-Admin: admin | admin123
-User: engineering | engineering, ppc | ppc123, quality | quality
 
 ###################
 What is CodeIgniter
